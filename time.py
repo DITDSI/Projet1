@@ -1,4 +1,4 @@
 # Program that shows date
 import datetime
-thetime = datetime.datetime.now()
-print(f'Time now :{thetime}')
+thetime2 = datetime.datetime.now()
+print(f'Time now :{thetime2}')

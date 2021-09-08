@@ -1,4 +1,4 @@
-# Programme pour connaaitre lheure quil fait
+# Program that shows date
 import datetime
 thetime = datetime.datetime.now()
-print(f'Nous sommes le {thetime}')
+print(f'Time now :{thetime}')
